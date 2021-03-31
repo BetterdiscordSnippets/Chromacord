@@ -82,6 +82,7 @@ This repository is currently archived and will not receive any updates. Because 
     100% {background: rgb(255, 0, 55);} 
 }
 
+/* Gradient Border - Hoofer#0001 (github.com/HooferDevelops) */
 body {
     padding: 2px;
     animation: chroma-background-color 5s ease-in-out infinite;
