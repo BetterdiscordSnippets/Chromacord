@@ -1,9 +1,8 @@
-# Chromacord - OPEN SOURCE
-`This repository & snippet is currently archived and discontinued and will not receive any updates, because of this, the code will be free to take. Feel free to modify it, improve it or do whatever you want.`
+# Chromacord
+This repository is currently archived and will not receive any updates. Because of this, the code will be free to take.
 
-A better version of __Rainbowcord__ (1st variant of Chromacord), inspired by **[Discord RGB Snippet WIP](https://github.com/Fahrenheit/Discord-RGB-Snippet-WIP)** created by **[Fahrenheit](https://github.com/Fahrenheit)/`Fahrenheight#0001.`** Credits to **[HooferDevelops](https://github.com/HooferDevelops)/`Hoofer#0001`** for the [border](https://github.com/HooferDevelops/GradientBorder).
+- A stupid "theme" that adds a chroma effect to specific elements. Heavily inspired by [Discord RGB Snippet WIP](https://github.com/Fahrenheit/Discord-RGB-Snippet-WIP) by [Fahrenheight#0001](https://github.com/Fahrenheit).
 
-# Source Code
 ```css
 @keyframes chroma {
     0% {color: red;}
@@ -119,3 +118,7 @@ body {
     animation: chroma-background-color 5s ease-in-out infinite;
 }
 ```
+
+Credits
+-------
+- [Hoofer#0001](https://github.com/HooferDevelops) - [Gradient Border](https://github.com/HooferDevelops/GradientBorder).
